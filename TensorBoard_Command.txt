@@ -1,0 +1,5 @@
+Type the following command in your conda command window
+tensorboard --logdir C:\Users\Oliver\Desktop\Graph
+
+if that doesnt work use:
+tensorboard --logdir D:\Oliver\Desktop\Graph\akt --host localhost --port 8088
